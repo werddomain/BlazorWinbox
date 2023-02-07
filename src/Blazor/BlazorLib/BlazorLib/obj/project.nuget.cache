@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "C+n8LAIfQbPO4s0BcFoEqnAkGSmqeX/nrkx2aJkL+kDnNXcXOwiJ4y8Ztw49dAmt2Sb5U8cr8Mcpz8vuvIbQNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clefw\\source\\repos\\werddomain\\BlazorWinbox\\src\\Blazor\\BlazorLib\\BlazorLib\\BlazorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.2\\microsoft.aspnetcore.authorization.7.0.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.2\\microsoft.aspnetcore.components.7.0.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.2\\microsoft.aspnetcore.components.analyzers.7.0.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.2\\microsoft.aspnetcore.components.forms.7.0.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.2\\microsoft.aspnetcore.components.web.7.0.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.2\\microsoft.aspnetcore.metadata.7.0.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\microsoft.jsinterop\\7.0.2\\microsoft.jsinterop.7.0.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
